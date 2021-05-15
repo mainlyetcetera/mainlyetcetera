@@ -5,6 +5,13 @@
   <a href="https://github.com/mainlyetcetera/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainlyetcetera&theme=tokyonight" height="200" width="300"/>
   </a>
+  </br>
+   <a href="https://github.com/mainlyetcetera/todo_pern_server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainlyetcetera&repo=todo_pern_server&theme=tokyonight" height="200" width="400"/>
+  </a>
+   <a href="https://github.com/mainlyetcetera/rotten_tomatillos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainlyetcetera&repo=rotten_tomatillos&theme=tokyonight" height="200" width="400"/>
+  </a>
 </div>
 
 <!--
