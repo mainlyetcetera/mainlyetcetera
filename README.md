@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Full-Stack Techs:
+#### Full-Stack Techs:
 
 <div align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-## Front-End Techs:
+---
+
+#### Front-End Techs:
 
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -61,7 +63,9 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-## Back-End Techs:
+---
+
+#### Back-End Techs:
 
 <div align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -69,23 +73,35 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-### The only editor worth using... 
+---
+
+#### The only editor worth using... 
 
 <div align="center">
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 </br>
 
-### The easiest ways to get ahold of me!
+---
+
+#### The easiest ways to get ahold of me!
 
 <div align="center">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <a href="https://www.linkedin.com/in/eric-campbell-32584719a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://turing.slack.com/team/U019KQ1PAJX">
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
 </div>
 </br>
 
-### I have blog posts on...
+---
+
+#### I have blog posts on...
 
 <div align="center">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <a href="https://ericcampbell359.medium.com/">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
 </div>
