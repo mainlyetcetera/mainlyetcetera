@@ -1,3 +1,21 @@
+## Hi there, I'm Eric Campbell! 👋
+</br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eric-campbell-32584719a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://turing.slack.com/team/U019KQ1PAJX">
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
+  <a href="https://ericcampbell359.medium.com/">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+</div>
+</br>
+
+---
+
 <div align="center">
   <a href="https://github.com/mainlyetcetera/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mainlyetcetera&show_icons=true&theme=tokyonight" height="200" width="500"/>
@@ -14,24 +32,15 @@
   </a>
 </div>
 
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently learning Python and TypeScript
+- 🤔 &nbsp; I'm exploring the only editor worth using: Vim!
+- 💼 &nbsp; Full-stack and front-end web developer.
+- ✍️ &nbsp; I enjoy watching anime and learning more about supercars!
+- ☕ &nbsp; I know for a fact that a perfect cup of coffee is the ultimate solution to any problem!
 
-<!--
-**mainlyetcetera/mainlyetcetera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 #### Full-Stack Techs:
 
@@ -52,8 +61,6 @@ Here are some ideas to get you started:
 </div>
 </br>
 
----
-
 #### Front-End Techs:
 
 <div align="center">
@@ -63,8 +70,6 @@ Here are some ideas to get you started:
 </div>
 </br>
 
----
-
 #### Back-End Techs:
 
 <div align="center">
@@ -73,35 +78,9 @@ Here are some ideas to get you started:
 </div>
 </br>
 
----
-
 #### The only editor worth using... 
 
 <div align="center">
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 </br>
-
----
-
-#### The easiest ways to get ahold of me!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eric-campbell-32584719a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://turing.slack.com/team/U019KQ1PAJX">
-    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  </a>
-</div>
-</br>
-
----
-
-#### I have blog posts on...
-
-<div align="center">
-  <a href="https://ericcampbell359.medium.com/">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-</div>
